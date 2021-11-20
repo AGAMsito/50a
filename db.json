@@ -1,0 +1,1785 @@
+{
+  "0": {
+    "name": "Dog#0",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/0",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "BabyBlue3"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro28"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "Tongue2"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "Nothing10"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "Propeller16"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "White2"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "RedBackpack1"
+      }
+    ]
+  },
+  "1": {
+    "name": "Dog#1",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/1",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "Green7"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro6"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "WhiteMask7"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "LeashPink6"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "GreenBeanie8"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "Sunglasses1"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "Nothing5"
+      }
+    ]
+  },
+  "2": {
+    "name": "Dog#2",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/2",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "BabyBlue3"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro17"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "Sad1"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "collarGray8"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "Nothing17"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "3D4"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "Nothing5"
+      }
+    ]
+  },
+  "3": {
+    "name": "Dog#3",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/3",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "Red8"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro34"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "BlueMask6"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "LeashPink6"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "GreenHeadphones15"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "White2"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "Nothing5"
+      }
+    ]
+  },
+  "4": {
+    "name": "Dog#4",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/4",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "Brown2"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro2"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "Cigarette4"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "CollarGold7"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "PartyHat"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "Sunglasses1"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "Nothing5"
+      }
+    ]
+  },
+  "5": {
+    "name": "Dog#5",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/5",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "Brown2"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro34"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "Tongue2"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "collarGray8"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "GreenHeadphones15"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "White2"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "RedBackpack1"
+      }
+    ]
+  },
+  "6": {
+    "name": "Dog#6",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/6",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "Purple4"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro39"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "Nothing8"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "CollarBlack9"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "BlueHeadphones11"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "3D4"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "Nothing5"
+      }
+    ]
+  },
+  "7": {
+    "name": "Dog#7",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/7",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "BabyBlue3"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro39"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "WhiteMask7"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "LeashGreen2"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "YellowBeanie4"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "Nothing6"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "GreenBackpack3"
+      }
+    ]
+  },
+  "8": {
+    "name": "Dog#8",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/8",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "Pink5"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "Perro1"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "Bone3"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "LeashPurple4"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "Propeller16"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "White2"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "GreenBackpack3"
+      }
+    ]
+  },
+  "9": {
+    "name": "Dog#9",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/9",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "Red8"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro13"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "Nothing8"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "collarGray8"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "PurpleBeanie7"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "3D4"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "Nothing5"
+      }
+    ]
+  },
+  "10": {
+    "name": "Dog#10",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/10",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "Blue6"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro35"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "BlackMask5"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "LeashRed1"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "YellowBeanie4"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "Sunglasses1"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "PurpleBackpack4"
+      }
+    ]
+  },
+  "11": {
+    "name": "Dog#11",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/11",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "Blue6"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro33"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "WhiteMask7"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "LeashGreen2"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "PurpleBeanie7"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "3D4"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "GreenBackpack3"
+      }
+    ]
+  },
+  "12": {
+    "name": "Dog#12",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/12",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "Blue6"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro8"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "BlueMask6"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "LeashYellow3"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "PartyHat"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "White2"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "PurpleBackpack4"
+      }
+    ]
+  },
+  "13": {
+    "name": "Dog#13",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/13",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "Brown2"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro42"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "Tongue2"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "LeashBlue5"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "BlackHeadphones14"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "NormalGlasses3"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "Nothing5"
+      }
+    ]
+  },
+  "14": {
+    "name": "Dog#14",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/14",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "BabyBlue3"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro37"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "BlueMask6"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "collarGray8"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "YellowBeanie4"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "Nothing6"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "BlueBackpack2"
+      }
+    ]
+  },
+  "15": {
+    "name": "Dog#15",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/15",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "Blue6"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro36"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "Sad1"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "CollarGold7"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "WhiteHeadphones13"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "Eyes5"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "RedBackpack1"
+      }
+    ]
+  },
+  "16": {
+    "name": "Dog#16",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/16",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "Red8"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro35"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "Nothing8"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "collarGray8"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "WhiteHeadphones13"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "Sunglasses1"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "GreenBackpack3"
+      }
+    ]
+  },
+  "17": {
+    "name": "Dog#17",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/17",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "Purple4"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro28"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "Sad1"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "collarGray8"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "PartyHat"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "3D4"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "GreenBackpack3"
+      }
+    ]
+  },
+  "18": {
+    "name": "Dog#18",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/18",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "BabyBlue3"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro39"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "Cigarette4"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "LeashBlue5"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "WhiteHeadphones13"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "White2"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "GreenBackpack3"
+      }
+    ]
+  },
+  "19": {
+    "name": "Dog#19",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/19",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "BabyBlue3"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro28"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "BlackMask5"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "LeashYellow3"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "BlueBeanie10"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "Nothing6"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "BlueBackpack2"
+      }
+    ]
+  },
+  "20": {
+    "name": "Dog#20",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/20",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "Pink5"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro42"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "Nothing8"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "Nothing10"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "BlueHeadphones11"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "Nothing6"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "Nothing5"
+      }
+    ]
+  },
+  "21": {
+    "name": "Dog#21",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/21",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "Blue6"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro41"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "BlackMask5"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "Nothing10"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "RedBeanie5"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "3D4"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "RedBackpack1"
+      }
+    ]
+  },
+  "22": {
+    "name": "Dog#22",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/22",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "Pink5"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro6"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "BlueMask6"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "CollarGold7"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "YellowBeanie4"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "Nothing6"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "Nothing5"
+      }
+    ]
+  },
+  "23": {
+    "name": "Dog#23",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/23",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "Red8"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro33"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "Cigarette4"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "LeashGreen2"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "BlueHeadphones11"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "Sunglasses1"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "GreenBackpack3"
+      }
+    ]
+  },
+  "24": {
+    "name": "Dog#24",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/24",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "Purple4"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro23"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "Sad1"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "CollarBlack9"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "Propeller16"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "Eyes5"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "Nothing5"
+      }
+    ]
+  },
+  "25": {
+    "name": "Dog#25",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/25",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "Brown2"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro10"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "Bone3"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "Nothing10"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "BlackBowTie3"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "3D4"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "Nothing5"
+      }
+    ]
+  },
+  "26": {
+    "name": "Dog#26",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/26",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "Yellow1"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro34"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "Nothing8"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "LeashBlue5"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "BlackBowTie3"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "Nothing6"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "BlueBackpack2"
+      }
+    ]
+  },
+  "27": {
+    "name": "Dog#27",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/27",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "Purple4"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "Perro1"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "Cigarette4"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "CollarGold7"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "BlueHeadphones11"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "Sunglasses1"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "Nothing5"
+      }
+    ]
+  },
+  "28": {
+    "name": "Dog#28",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/28",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "BabyBlue3"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro30"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "Cigarette4"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "LeashRed1"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "BlackHeadphones14"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "Eyes5"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "Nothing5"
+      }
+    ]
+  },
+  "29": {
+    "name": "Dog#29",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/29",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "Blue6"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro5"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "Sad1"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "LeashPurple4"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "GreenHeadphones15"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "Nothing6"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "PurpleBackpack4"
+      }
+    ]
+  },
+  "30": {
+    "name": "Dog#30",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/30",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "BabyBlue3"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro16"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "Bone3"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "LeashRed1"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "OrangeBeanie9"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "Eyes5"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "PurpleBackpack4"
+      }
+    ]
+  },
+  "31": {
+    "name": "Dog#31",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/31",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "Pink5"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro26"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "Sad1"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "LeashPurple4"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "BlueBeanie10"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "3D4"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "GreenBackpack3"
+      }
+    ]
+  },
+  "32": {
+    "name": "Dog#32",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/32",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "Purple4"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro27"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "Cigarette4"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "collarGray8"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "Propeller16"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "3D4"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "Nothing5"
+      }
+    ]
+  },
+  "33": {
+    "name": "Dog#33",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/33",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "Brown2"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro40"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "Tongue2"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "LeashPink6"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "PurpleBeanie7"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "Eyes5"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "Nothing5"
+      }
+    ]
+  },
+  "34": {
+    "name": "Dog#34",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/34",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "Red8"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro28"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "BlackMask5"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "LeashPurple4"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "PinkBowTie1"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "Sunglasses1"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "BlueBackpack2"
+      }
+    ]
+  },
+  "35": {
+    "name": "Dog#35",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/35",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "Yellow1"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro4"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "Sad1"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "LeashRed1"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "YellowBeanie4"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "NormalGlasses3"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "BlueBackpack2"
+      }
+    ]
+  },
+  "36": {
+    "name": "Dog#36",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/36",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "Pink5"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro11"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "Sad1"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "LeashPink6"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "RedHeadphones12"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "White2"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "GreenBackpack3"
+      }
+    ]
+  },
+  "37": {
+    "name": "Dog#37",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/37",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "Red8"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro13"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "Tongue2"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "CollarBlack9"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "PartyHat"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "Nothing6"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "RedBackpack1"
+      }
+    ]
+  },
+  "38": {
+    "name": "Dog#38",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/38",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "Green7"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro23"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "Tongue2"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "LeashYellow3"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "Propeller16"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "Sunglasses1"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "RedBackpack1"
+      }
+    ]
+  },
+  "39": {
+    "name": "Dog#39",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/39",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "Red8"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro9"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "Cigarette4"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "Nothing10"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "RedHeadphones12"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "White2"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "GreenBackpack3"
+      }
+    ]
+  },
+  "40": {
+    "name": "Dog#40",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/40",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "Green7"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro22"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "Sad1"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "LeashBlue5"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "PinkBowTie1"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "NormalGlasses3"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "BlueBackpack2"
+      }
+    ]
+  },
+  "41": {
+    "name": "Dog#41",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/41",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "Brown2"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro27"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "Cigarette4"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "collarGray8"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "BlueHeadphones11"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "Nothing6"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "BlueBackpack2"
+      }
+    ]
+  },
+  "42": {
+    "name": "Dog#42",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/42",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "Blue6"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro24"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "BlueMask6"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "LeashGreen2"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "YellowBeanie4"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "3D4"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "Nothing5"
+      }
+    ]
+  },
+  "43": {
+    "name": "Dog#43",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/43",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "Blue6"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro12"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "WhiteMask7"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "Nothing10"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "OrangeBeanie9"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "3D4"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "BlueBackpack2"
+      }
+    ]
+  },
+  "44": {
+    "name": "Dog#44",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/44",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "Red8"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro11"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "Tongue2"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "LeashPink6"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "OrangeBeanie9"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "Eyes5"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "GreenBackpack3"
+      }
+    ]
+  },
+  "45": {
+    "name": "Dog#45",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/45",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "Brown2"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro8"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "Sad1"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "LeashBlue5"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "WhiteHeadphones13"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "White2"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "Nothing5"
+      }
+    ]
+  },
+  "46": {
+    "name": "Dog#46",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/46",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "Yellow1"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro22"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "Cigarette4"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "CollarBlack9"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "PinkBowTie1"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "Sunglasses1"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "RedBackpack1"
+      }
+    ]
+  },
+  "47": {
+    "name": "Dog#47",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/47",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "Purple4"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro40"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "WhiteMask7"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "LeashBlue5"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "PartyHat"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "3D4"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "PurpleBackpack4"
+      }
+    ]
+  },
+  "48": {
+    "name": "Dog#48",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/48",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "Yellow1"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro4"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "Cigarette4"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "LeashPurple4"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "BlackBowTie3"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "3D4"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "Nothing5"
+      }
+    ]
+  },
+  "49": {
+    "name": "Dog#49",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/49",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "Brown2"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro17"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "Tongue2"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "Nothing10"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "GreenBeanie8"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "Eyes5"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "BlueBackpack2"
+      }
+    ]
+  },
+  "50": {
+    "name": "Dog#50",
+    "description": "Buy me",
+    "image": "https://twitter.com/Just_Dogss/50",
+    "attributes": [
+      {
+        "trait_type": "trait1_Background",
+        "value": "Brown2"
+      },
+      {
+        "trait_type": "trait2_base",
+        "value": "perro20"
+      },
+      {
+        "trait_type": "trait3_Mouth",
+        "value": "BlueMask6"
+      },
+      {
+        "trait_type": "trait4_Neck",
+        "value": "CollarGold7"
+      },
+      {
+        "trait_type": "trait5_Head",
+        "value": "Nothing17"
+      },
+      {
+        "trait_type": "trait6_Glasses",
+        "value": "Nothing6"
+      },
+      {
+        "trait_type": "trait7_Backpack",
+        "value": "BlueBackpack2"
+      }
+    ]
